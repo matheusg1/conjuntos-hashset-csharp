@@ -1,0 +1,16 @@
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\conjuntos-hashset-csharp\conjuntos-hashset-csharp\bin\Debug\net5.0\conjuntos-hashset-csharp.exe
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\conjuntos-hashset-csharp\conjuntos-hashset-csharp\bin\Debug\net5.0\conjuntos-hashset-csharp.deps.json
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\conjuntos-hashset-csharp\conjuntos-hashset-csharp\bin\Debug\net5.0\conjuntos-hashset-csharp.runtimeconfig.json
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\conjuntos-hashset-csharp\conjuntos-hashset-csharp\bin\Debug\net5.0\conjuntos-hashset-csharp.runtimeconfig.dev.json
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\conjuntos-hashset-csharp\conjuntos-hashset-csharp\bin\Debug\net5.0\conjuntos-hashset-csharp.dll
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\conjuntos-hashset-csharp\conjuntos-hashset-csharp\bin\Debug\net5.0\conjuntos-hashset-csharp.pdb
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\conjuntos-hashset-csharp\conjuntos-hashset-csharp\obj\Debug\net5.0\conjuntos-hashset-csharp.csproj.AssemblyReference.cache
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\conjuntos-hashset-csharp\conjuntos-hashset-csharp\obj\Debug\net5.0\conjuntos-hashset-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\conjuntos-hashset-csharp\conjuntos-hashset-csharp\obj\Debug\net5.0\conjuntos-hashset-csharp.AssemblyInfoInputs.cache
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\conjuntos-hashset-csharp\conjuntos-hashset-csharp\obj\Debug\net5.0\conjuntos-hashset-csharp.AssemblyInfo.cs
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\conjuntos-hashset-csharp\conjuntos-hashset-csharp\obj\Debug\net5.0\conjuntos-hashset-csharp.csproj.CoreCompileInputs.cache
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\conjuntos-hashset-csharp\conjuntos-hashset-csharp\obj\Debug\net5.0\conjuntos-hashset-csharp.dll
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\conjuntos-hashset-csharp\conjuntos-hashset-csharp\obj\Debug\net5.0\refint\conjuntos-hashset-csharp.dll
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\conjuntos-hashset-csharp\conjuntos-hashset-csharp\obj\Debug\net5.0\conjuntos-hashset-csharp.pdb
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\conjuntos-hashset-csharp\conjuntos-hashset-csharp\obj\Debug\net5.0\conjuntos-hashset-csharp.genruntimeconfig.cache
+C:\Users\matheus.silva\Documents\ProjetosPessoais\CSharp\conjuntos-hashset-csharp\conjuntos-hashset-csharp\obj\Debug\net5.0\ref\conjuntos-hashset-csharp.dll
